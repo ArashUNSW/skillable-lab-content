@@ -20,7 +20,7 @@
 <br>
 
 <div class=box>
-<b>Select Topic:</b>&nbsp;&nbsp;&nbsp;&nbsp; @lab.DropDownList(module)[About,Access and Credentials,Lab 01,Lab 02,Lab 03,Lab 04,Lab 05,Lab 07,Lab 08,Lab 09,Lab 10]
+<b>Select Topic:</b>&nbsp;&nbsp;&nbsp;&nbsp; @lab.DropDownList(module)[About,Access and Credentials,Lab01,Lab02,Lab03,Lab04,Lab05,Lab07,Lab08,Lab09,Lab10]
 </div>
 
 ---
