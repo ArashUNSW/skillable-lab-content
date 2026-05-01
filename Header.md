@@ -12,7 +12,7 @@
 </style>
 
 <center>
-!IMAGE[SkillableLSIsmall.png](https://raw.githubusercontent.com/ArashUNSW/skillable-lab-content/main/SkillableLSIsmall.png){300}
+<img src="https://raw.githubusercontent.com/ArashUNSW/skillable-lab-content/main/SkillableLSIsmall.png" width="300" alt="Skillable logo">
 
 @lab.Title
 
